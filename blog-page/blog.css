@@ -65,3 +65,12 @@ button{
 .blog-title{
     font-family: monospace;
 }
+
+.row {
+    display: flex;
+}
+.column {
+    flex: 50%;
+    padding: 10px;
+    height: 300px; 
+}
